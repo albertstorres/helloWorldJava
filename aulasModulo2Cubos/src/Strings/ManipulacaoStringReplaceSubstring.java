@@ -1,3 +1,5 @@
+package Strings;
+
 public class ManipulacaoStringReplaceSubstring {
     public static void main (String[] args) {
         String variavel = "banana";

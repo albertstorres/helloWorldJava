@@ -1,3 +1,5 @@
+package Strings;
+
 public class ManipulacaoStringsStartsWithEndsWith {
     public static void main (String[] args){
         String variavel1 = "Albert Sevy";

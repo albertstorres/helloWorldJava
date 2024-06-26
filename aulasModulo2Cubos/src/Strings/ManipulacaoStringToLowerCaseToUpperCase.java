@@ -1,3 +1,5 @@
+package Strings;
+
 public class ManipulacaoStringToLowerCaseToUpperCase {
     public static void main (String[] args) {
         String variavel = "Albert Sevy";

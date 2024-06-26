@@ -1,3 +1,5 @@
+package Strings;
+
 public class ManipulacaoStringValueOfCharAt {
     public static void main (String[] args) {
         double numero1 = 13.5;
